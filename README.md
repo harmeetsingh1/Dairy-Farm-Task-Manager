@@ -1,7 +1,7 @@
 # Dairy Task Manager
   
 ## It has two parts 
-1) where i can create task.
+1) Where i can create task.
 2) Other where i can see task.
    
 ## Features of the web app  
