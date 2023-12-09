@@ -13,5 +13,5 @@
 6) I have also used form validation just to check if all fields are filled.
 
 ## Live version of the web app
-(Click Here)[https://dairy-task-manager.web.app/]
+Link: https://dairy-task-manager.web.app/
 
